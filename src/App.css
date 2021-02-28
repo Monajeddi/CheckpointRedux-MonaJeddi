@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-top: 60px;
+  width: 450px;
+  background-color: rgba(55, 74, 85, 0.205);
+}
+
+.title{
+  text-decoration: line-through;
+}
+
+.list{
+  margin-top: 15PX;
+  text-align: left;
+}
+
+.items{
+  margin-left: 20px;
+  display: flex;
+  
+}
+
+h4{
+  padding-top: 15px;
+  text-align: left;
+  font-style: italic;
+  
+}
